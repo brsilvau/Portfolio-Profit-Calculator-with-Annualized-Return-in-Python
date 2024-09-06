@@ -16,7 +16,7 @@ Este proyecto calcula las ganancias de un portafolio de acciones entre dos fecha
 
 1. Clona el repositorio:
     ```
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/brsilvau/Portfolio-Profit-Calculator-with-Annualized-Return-in-Python.git
     cd Portfolio-Profit-Calculator
     ```
 2. Ejecuta el ejemplo:
